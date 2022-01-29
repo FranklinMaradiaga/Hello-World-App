@@ -1,4 +1,4 @@
-## HelloWorld## HelloWorld
+## HelloWorld
 
 ### App Description
 
@@ -7,7 +7,6 @@ This app greets the user with a custom background color, then there's a button a
 ### App Walk-though
 
 ![](https://i.imgur.com/U0sLYqf.gif)
-
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
